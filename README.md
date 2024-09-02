@@ -11,7 +11,9 @@ As a passionate Full Stack Software Developer from Zimbabwe  🇿🇼, I special
 
 <div align="left">
  
- 🔭 I’m currently working on **a marketplace for Software Development Roles**
+ 🔭 I’m currently available on **the marketplace for Software Development Roles**
+
+ 👯 I’m looking to collaborate on **any industrial project especially those which are about FinTech block chain and AI**
  
  🌱 I’m currently learning **Docker,k8, AWS,OCP Java Exam Preparation**
 
