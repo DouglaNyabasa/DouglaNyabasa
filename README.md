@@ -9,7 +9,7 @@ As a passionate Full Stack Software Developer from Zimbabwe  🇿🇼, I special
 
 <br/>
 
-<div align="center">
+<div align="left">
  
  🔭 I’m currently working on **a marketplace for Software Development Roles**
  
