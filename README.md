@@ -17,6 +17,8 @@ As a passionate Full Stack Software Developer from Zimbabwe  🇿🇼, I special
  
  🌱 I’m currently learning **Docker,k8, AWS,OCP Java Exam Preparation**
 
+ 📫 How to reach me **douglasnyabasa400@gmai.com**
+
 💬 Ask me about **Java (Spring-Boot, Microservices,Kafka), Dart(Flutter), JavaScript(ReactJs,NodeJS,React Native) Firebase... or anything [here](https://github.com/DouglaNyabasa)**
 
 ⚡ Fun fact **I like Japanese Anime (Naruto, Bleach, Dragon Ball-Z, Demon Slayer, Attack On Titan, Death Note)**
@@ -38,7 +40,7 @@ As a passionate Full Stack Software Developer from Zimbabwe  🇿🇼, I special
 
  <hr/>
  
-<h2 align="center">⚒️ My Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ My Tech Stack ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=java,maven,rabbitmq,kafka,javascript,react,nodejs,express,flutter,firebase,mongodb,mysql,linux,postman" />
