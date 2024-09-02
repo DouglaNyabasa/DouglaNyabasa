@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace for Software Development Position**
+ 🔭 I’m currently working on **a marketplace for Software Development Roles**
  
  🌱 I’m currently learning **Docker,k8, AWS,OCP Java Exam Preparation**
 
