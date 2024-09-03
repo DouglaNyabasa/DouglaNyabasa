@@ -57,7 +57,7 @@ I am a passionate Full Stack Software Developer, I specialize in creating robust
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 <br/>
-### <h5 >LINKS TO MY PROJECTS 🚀 👨🏻‍💻  </> <h5/>
+### <h5 >LINKS TO MY PROJECTS 🚀 👨🏻‍💻 <h5/>
 
 <h1> Nike store using Tailwind and Reactjs  👟 Just Do It✓ <h1/>
 
