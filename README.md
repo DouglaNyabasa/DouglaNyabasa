@@ -57,7 +57,12 @@ I am a passionate Full Stack Software Developer, I specialize in creating robust
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 <br/>
-### <h3  > Links To Projects 🚀 👨🏻‍💻  </> <h3/>
+### <h5 >LINKS TO MY PROJECTS 🚀 👨🏻‍💻  </> <h5/>
+
+
+<br/>
+
+### <h1> NIKE STORE USING REACT & TAILWIND CSS  👟 Just Do It✓ <h1/>###
 
 [![Alt text](https://github.com/DouglaNyabasa/DouglaNyabasa/blob/ed05987eaf02ef3bf7687013ea8da4cea9795e02/Screenshot%20from%202024-09-03%2014-00-32.png)](https://nike-store-react-tailwind-b5o3id76a-dougg400s-projects.vercel.app/)
 
