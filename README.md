@@ -61,6 +61,8 @@ I am a passionate Full Stack Software Developer, I specialize in creating robust
 
 <h1> Nike store using Tailwind and Reactjs  👟 Just Do It✓ <h1/>
 
+The project is deployed on vercel.com
+
 [![Alt text](https://github.com/DouglaNyabasa/DouglaNyabasa/blob/ed05987eaf02ef3bf7687013ea8da4cea9795e02/Screenshot%20from%202024-09-03%2014-00-32.png)](https://nike-store-react-tailwind-b5o3id76a-dougg400s-projects.vercel.app/)
 
 
@@ -73,6 +75,11 @@ Back-end Is available done with Java Spring Boot
 
 <hr/>
 
+<h1> PayPal Spring-Boot Integration with Thymleaf 🇵 <h1/>
+
+Back-end Is available done with Java Spring Boot
+    
+[![Alt text](https://github.com/DouglaNyabasa/DouglaNyabasa/blob/Main/Screenshot%20from%202024-09-04%2014-07-00.png?raw=true)](https://github.com/DouglaNyabasa/Paypal-SpringBoot-Intergration.git)
 
 
 <hr/>
