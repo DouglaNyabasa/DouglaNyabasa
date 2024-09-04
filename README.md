@@ -77,7 +77,7 @@ Back-end Is available done with Java Spring Boot
 
 <h1> PayPal Spring-Boot Integration with Thymleaf 🇵 <h1/>
 
-Back-end Is available done with Java Spring Boot
+
     
 [![Alt text](https://github.com/DouglaNyabasa/DouglaNyabasa/blob/Main/Screenshot%20from%202024-09-04%2014-07-00.png?raw=true)](https://github.com/DouglaNyabasa/Paypal-SpringBoot-Intergration.git)
 
