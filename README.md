@@ -6,9 +6,9 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=400&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Douglas+Nyabasa!;" />
 </h1>
-<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=DouglaNyabasa&label=Profile%20views&color=0e75b6&style=flat" alt="DouglaNyabasa" /> </p>
 
 
 
