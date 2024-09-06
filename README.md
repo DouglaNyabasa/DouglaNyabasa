@@ -12,7 +12,7 @@
 
     
 
-I am a passionate Full Stack Software Developer, I specialize in creating robust and scalable applications using a diverse tech stack. On the server side, I leverage Java with Spring and microservices architecture, integrating Kafka for enhanced scalability and real-time data processing. For mobile development, I utilize Flutter to build beautiful, high-performance applications for both Android and iOS platforms. My expertise in web development encompasses React.js for dynamic user interfaces and Node.js for efficient server-side scripting. I am proficient in managing databases with MySQL and MongoDB, ensuring optimal data storage and retrieval. Additionally, I have a strong focus on UI/UX design, using Figma to create intuitive and engaging user experiences. I thrive on challenges and continuously seek opportunities to innovate and improve user experiences through cutting-edge technology.
+I am a passionate Full Stack Software Developer, I specialize in creating robust and scalable applications using a diverse tech stack. On the server side, I leverage Java with Spring and microservices architecture, integrating Kafka for enhanced scalability and real-time data processing. For mobile development, I utilize Flutter to build beautiful, high-performance applications for both Android and iOS platforms. My expertise in web development encompasses React.js for dynamic user interfaces. I am proficient in managing databases with MySQL and MongoDB, ensuring optimal data storage and retrieval. Additionally, I have a strong focus on UI/UX design, using Figma to create intuitive and engaging user experiences. I thrive on challenges and continuously seek opportunities to innovate and improve user experiences through cutting-edge technology.
 
 
 <br/>
@@ -51,7 +51,7 @@ I am a passionate Full Stack Software Developer, I specialize in creating robust
 <h2 align="center">⚒️ My Tech Stack ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,maven,kafka,javascript,react,nodejs,express,flutter,firebase,mongodb,mysql,linux,postman" />
+    <img src="https://skillicons.dev/icons?i=java,maven,kafka,javascript,react,express,flutter,firebase,mongodb,mysql,linux,postman" />
     <img src="https://skillicons.dev/icons?i=bootstrap,mui,html,css,redux,graphql,figma,tailwind," />
     <br>
 </div>
