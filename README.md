@@ -51,8 +51,8 @@ I am a passionate Full Stack Software Developer, I specialize in creating robust
 <h2 align="center">⚒️ My Tech Stack ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,maven,kafka,javascript,react,express,flutter,firebase,mongodb,mysql,linux,postman" />
-    <img src="https://skillicons.dev/icons?i=bootstrap,mui,html,css,redux,graphql,figma,tailwind," />
+    <img src="https://skillicons.dev/icons?i=java,maven,kafka,javascript,react,flutter,firebase,mongodb,mysql,linux,postman" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,mui,html,css,redux,figma,tailwind," />
     <br>
 </div>
 
