@@ -61,17 +61,17 @@ I am a passionate Full Stack Software Developer, I specialize in creating robust
 
 ### 📊 Stats
 
-[![Douglas's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=rishavchanda&&theme=xcode)](https://github.com/rishavchanda)
+[![Douglas's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=DouglaNyabasa&&theme=xcode)](https://github.com/DouglaNyabasa)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishavchanda&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DouglaNyabasa&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="DouglaNyabasa" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishavchanda&show_icons=true&locale=en&theme=tokyonight" alt="rishavchanda" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DouglaNyabasa&show_icons=true&locale=en&theme=tokyonight" alt="DouglaNyabasa" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishavchanda&&theme=tokyonight" alt="rishavchanda" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DouglaNyabasa&&theme=tokyonight" alt="DouglaNyabasa" /></p>
 
 ![Douglas Nyabasa's GitHub stats](https://github-readme-stats.vercel.app/api?username=douglanyabasa&show_icons=true&theme=gruvbox)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+
 <br/>
  <h1 >LINKS TO MY PROJECTS 🚀 👨🏻‍💻 <h1/>
 
