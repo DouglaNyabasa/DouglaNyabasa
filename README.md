@@ -2,7 +2,7 @@
 
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=FullStack+Developer;Backend+Developer;Frontend+Developer;Mobile+Developer;Java+SringBoot+Developer;Reactjs+Developer;Flutter+Developer;" alt="Headline"/>
+    <img src="https://readme-typing-svg.herokuapp.com?color=%#0000FF80&size=32&center=true&vCenter=true&width=600&height=50&lines=FullStack+Developer;Java+SringBoot+Developer;Reactjs+Developer;Flutter+Developer;" alt="Headline"/>
 </h1>
     <div align=center>
         <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
