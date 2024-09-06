@@ -1,8 +1,17 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=DouglaNyabasa.DouglaNyabasa" />
 
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=+Welcome+to+my+Github+👋;+I'm+Douglas+Nyabasa;" />
 </h1>
+    <div align=center>
+        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
+    </div>
+    <div align=center>
+    <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=FullStack+Developer;Backend+Developer;Frontend+Developer;Mobile+Developer;Java+SringBoot+Developer;Reactjs+Developer;Flutter+Developer;" alt="Headline"/>
+    </div>
+
+    
 
 I am a passionate Full Stack Software Developer, I specialize in creating robust and scalable applications using a diverse tech stack. On the server side, I leverage Java with Spring and microservices architecture, integrating Kafka for enhanced scalability and real-time data processing. For mobile development, I utilize Flutter to build beautiful, high-performance applications for both Android and iOS platforms. My expertise in web development encompasses React.js for dynamic user interfaces and Node.js for efficient server-side scripting. I am proficient in managing databases with MySQL and MongoDB, ensuring optimal data storage and retrieval. Additionally, I have a strong focus on UI/UX design, using Figma to create intuitive and engaging user experiences. I thrive on challenges and continuously seek opportunities to innovate and improve user experiences through cutting-edge technology.
 
