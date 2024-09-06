@@ -2,14 +2,12 @@
 
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=+Welcome+to+my+Github+👋;+I'm+Douglas+Nyabasa;" />
+    <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=FullStack+Developer;Backend+Developer;Frontend+Developer;Mobile+Developer;Java+SringBoot+Developer;Reactjs+Developer;Flutter+Developer;" alt="Headline"/>
 </h1>
     <div align=center>
         <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
     </div>
-    <div align=center>
-    <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=FullStack+Developer;Backend+Developer;Frontend+Developer;Mobile+Developer;Java+SringBoot+Developer;Reactjs+Developer;Flutter+Developer;" alt="Headline"/>
-    </div>
+
 
     
 
