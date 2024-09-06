@@ -1,12 +1,13 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=DouglaNyabasa.DouglaNyabasa" />
 
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%0000FF80&size=32&center=true&vCenter=true&width=600&height=50&lines=FullStack+Developer;Java+SringBoot+Developer;Reactjs+Developer;Flutter+Developer;" alt="Headline"/>
-</h1>
-    <div align=center>
-        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
-    </div>
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
+<h1 align="center">Hi 👋, I'm Douglas NYabasa</h1>
+<h3 align="center">A passionate FullStack Developer from Zimbabwe</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
 
 
     
