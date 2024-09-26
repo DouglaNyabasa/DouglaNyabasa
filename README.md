@@ -87,6 +87,7 @@ Back-end Is available done with Java Spring Boot
 
 <hr/>
 
+
 <h1> PayPal Spring-Boot Integration with Thymleaf 🇵 <h1/>
 
 
@@ -95,14 +96,20 @@ Back-end Is available done with Java Spring Boot
 
 <hr/>
 
-<h1> Restaurant Management System Full Backend Application with Spring-Boot<h1/>
+    
+[![Alt text](https://github.com/DouglaNyabasa/DouglaNyabasa/blob/86faf8b9413e95599037d626b78f4094c6ec653b/GIT.PNG?raw=true)](https://github.com/DouglaNyabasa/restaurant_management_system_springboot.git)
+<hr/>
+
+<h1> Virtual Reality App<h1/>
+
+<h1>Tailwind and Reactjs  <h1/> <img src="https://skillicons.dev/icons?i=tailwind,react" />
 
 
     
-[![Alt text](https://github.com/DouglaNyabasa/DouglaNyabasa/blob/Main/Screenshot%20from%202024-09-09%2014-56-04.png?raw=true)](https://github.com/DouglaNyabasa/restaurant_management_system_springboot.git)
+[![Alt text](https://github.com/DouglaNyabasa/DouglaNyabasa/blob/Main/Screenshot%20from%202024-09-03%2015-26-36.png?raw=true)](https://github.com/DouglaNyabasa/VirtualReality_reactjs_tailwind.git)
+
+
 <hr/>
-
-
 
 
 
