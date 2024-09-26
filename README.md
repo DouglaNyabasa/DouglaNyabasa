@@ -70,6 +70,7 @@ I am a passionate Full Stack Software Developer, I specialize in creating robust
 
 <br/>
  <h1 >LINKS TO MY PROJECTS 🚀 👨🏻‍💻 <h1/>
+ <h1>Tailwind and Reactjs  <h1/> <img src="https://skillicons.dev/icons?i=tailwind,react" />
 
 <h1> Nike store using Tailwind and Reactjs  👟 Just Do It✓ <h1/>
 
@@ -79,6 +80,7 @@ The project is deployed on vercel.com
 
 
 <h1> Food Ordering Application using Tailwind and Reactjs 🥤🥗🍔🍗🍟🥓 <h1/>
+<h1>Tailwind and Reactjs  <h1/> <img src="https://skillicons.dev/icons?i=tailwind,react" />
 
 Back-end Is available done with Java Spring Boot
     
@@ -89,24 +91,28 @@ Back-end Is available done with Java Spring Boot
 
 
 <h1> PayPal Spring-Boot Integration with Thymleaf 🇵 <h1/>
+ <img src="https://skillicons.dev/icons?i=java,maven,mysql,postman" />
 
 
     
 [![Alt text](https://github.com/DouglaNyabasa/DouglaNyabasa/blob/Main/Screenshot%20from%202024-09-04%2014-07-00.png?raw=true)](https://github.com/DouglaNyabasa/Paypal-SpringBoot-Intergration.git)
 
 <hr/>
+<h1> Restaurant Management Using Spring boot<h1/> 
+    <img src="https://skillicons.dev/icons?i=java,maven,mysql,postman" />
 
-    
-[![Alt text](https://github.com/DouglaNyabasa/DouglaNyabasa/blob/86faf8b9413e95599037d626b78f4094c6ec653b/GIT.PNG?raw=true)](https://github.com/DouglaNyabasa/restaurant_management_system_springboot.git)
+[![Alt text](https://github.com/DouglaNyabasa/DouglaNyabasa/blob/e2bfdf396b2e722ab2a5c1a328276b5029870437/Screenshot%20from%202024-09-09%2014-56-04.png?raw=true)]
+(https://github.com/DouglaNyabasa/restaurant_management_system_springboot.git)
 <hr/>
 
 <h1> Virtual Reality App<h1/>
 
 <h1>Tailwind and Reactjs  <h1/> <img src="https://skillicons.dev/icons?i=tailwind,react" />
+[![Alt text](https://github.com/DouglaNyabasa/DouglaNyabasa/blob/86faf8b9413e95599037d626b78f4094c6ec653b/GIT.PNG?raw=true)]
 
 
     
-[![Alt text](https://github.com/DouglaNyabasa/DouglaNyabasa/blob/Main/Screenshot%20from%202024-09-03%2015-26-36.png?raw=true)](https://github.com/DouglaNyabasa/VirtualReality_reactjs_tailwind.git)
+(https://github.com/DouglaNyabasa/VirtualReality_reactjs_tailwind.git)
 
 
 <hr/>
