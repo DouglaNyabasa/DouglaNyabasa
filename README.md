@@ -99,20 +99,18 @@ Back-end Is available done with Java Spring Boot
 
 <hr/>
 <h1> Restaurant Management Using Spring boot<h1/> 
-    <img src="https://skillicons.dev/icons?i=java,maven,mysql,postman" />
+<img src="https://skillicons.dev/icons?i=java,maven,mysql,postman" />
 
-[![Alt text](https://github.com/DouglaNyabasa/DouglaNyabasa/blob/e2bfdf396b2e722ab2a5c1a328276b5029870437/Screenshot%20from%202024-09-09%2014-56-04.png?raw=true)]
-(https://github.com/DouglaNyabasa/restaurant_management_system_springboot.git)
-<hr/>
+[![Alt text](https://github.com/DouglaNyabasa/DouglaNyabasa/blob/e2bfdf396b2e722ab2a5c1a328276b5029870437/Screenshot%20from%202024-09-09%2014-56-04.png)](https://github.com/DouglaNyabasa/restaurant_management_system_springboot.git)
+
 
 <h1> Virtual Reality App<h1/>
 
-<h1>Tailwind and Reactjs  <h1/> <img src="https://skillicons.dev/icons?i=tailwind,react" />
-[![Alt text](https://github.com/DouglaNyabasa/DouglaNyabasa/blob/86faf8b9413e95599037d626b78f4094c6ec653b/GIT.PNG?raw=true)]
+<h1>Tailwind and Reactjs  <h1/> 
+<img src="https://skillicons.dev/icons?i=tailwind,react" />
 
-
+[![Alt text](https://github.com/DouglaNyabasa/DouglaNyabasa/blob/86faf8b9413e95599037d626b78f4094c6ec653b/GIT.PNG)](https://github.com/DouglaNyabasa/VirtualReality_reactjs_tailwind.git)
     
-(https://github.com/DouglaNyabasa/VirtualReality_reactjs_tailwind.git)
 
 
 <hr/>
