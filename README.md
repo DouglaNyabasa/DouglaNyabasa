@@ -79,6 +79,19 @@ The project is deployed on vercel.com
 [![Alt text](https://github.com/DouglaNyabasa/DouglaNyabasa/blob/ed05987eaf02ef3bf7687013ea8da4cea9795e02/Screenshot%20from%202024-09-03%2014-00-32.png)](https://nike-store-react-tailwind-b5o3id76a-dougg400s-projects.vercel.app/)
 
 
+<br/>
+ <h1 >LINKS TO MY PROJECTS 🚀 👨🏻‍💻 <h1/>
+ <h1>Tailwind, Reactjs and Framer Motion <h1/> <img src="https://skillicons.dev/icons?i=tailwind,react" />
+
+<h1> Fresh Fruit Website <h1/>
+
+The project is deployed on vercel.com
+
+[![Alt text](https://github.com/DouglaNyabasa/fresh_fruits_reactjs_framer_motion/blob/0a2531843dd318296ae771a54b9bbb81d267cfa6/Screenshot%202024-11-22%20162114.png)](https://fresh-fruits-reactjs-framer-motion-p9liwz55s-dougg400s-projects.vercel.app/)
+
+
+
+
 <h1> Food Ordering Application using Tailwind and Reactjs 🥤🥗🍔🍗🍟🥓 <h1/>
 <h1>Tailwind and Reactjs  <h1/> <img src="https://skillicons.dev/icons?i=tailwind,react" />
 
