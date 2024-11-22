@@ -80,7 +80,6 @@ The project is deployed on vercel.com
 
 
 <br/>
- <h1 >LINKS TO MY PROJECTS 🚀 👨🏻‍💻 <h1/>
  <h1>Tailwind, Reactjs and Framer Motion <h1/> <img src="https://skillicons.dev/icons?i=tailwind,react" />
 
 <h1> Fresh Fruit Website <h1/>
