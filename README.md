@@ -101,6 +101,15 @@ Back-end Is available done with Java Spring Boot
 
 <hr/>
 
+<h1> Health & Rehabilitation Booking System <h1/>
+<h1>Tailwind and Reactjs  <h1/> <img src="https://skillicons.dev/icons?i=tailwind,react" />
+
+
+    
+[![Alt text](https://github.com/DouglaNyabasa/rehabilitation_system_reactjs/blob/b9b112ef71aa5731f28d2aba92a99175ca1063c1/Screenshot%202024-11-22%20163841.png)](https://github.com/DouglaNyabasa/rehabilitation_system_reactjs.git)
+
+
+<hr/>
 
 <h1> PayPal Spring-Boot Integration with Thymleaf 🇵 <h1/>
  <img src="https://skillicons.dev/icons?i=java,maven,mysql,postman" />
