@@ -27,9 +27,9 @@ I am a passionate Full Stack Software Developer, I specialize in creating robust
 
  📫 How to reach me **douglasnyabasa400@gmai.com**
 
-💬 Ask me about **Java (Spring-Boot, Microservices,Kafka), Dart(Flutter), JavaScript(ReactJs,NodeJS,React Native) Firebase... or anything [here](https://github.com/DouglaNyabasa)**
+💬 Ask me about **Java (Spring-Boot, Microservices), Dart(Flutter), JavaScript(ReactJs,Nextjs) Firebase... or anything [here](https://github.com/DouglaNyabasa)**
 
-⚡ Fun fact **I like Japanese Anime (Naruto, Bleach, Dragon Ball-Z, Demon Slayer, Attack On Titan, Death Note)**
+⚡ Fun fact **I like Japanese Anime (Naruto, Bleach, Dragon Ball-Z, Demon Slayer, Attack On Titan, Death Note, One punch man)**
 
  </div>
  
