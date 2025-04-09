@@ -134,10 +134,7 @@ Back-end Is available done with Java Spring Boot
 [![Alt text](https://github.com/DouglaNyabasa/email_service_spring_boot_docker/blob/e76336221da55e7be3479a58c4353c94b8ac9b2e/screenshots/Screenshot%20from%202025-04-04%2012-14-24.png?raw=true)](https://github.com/DouglaNyabasa/email_service_spring_boot_docker.git)
 
 <hr/>
-<h1> Restaurant Management Using Spring boot<h1/> 
-<img src="https://skillicons.dev/icons?i=java,maven,mysql,postman" />
 
-[![Alt text](https://github.com/DouglaNyabasa/DouglaNyabasa/blob/e2bfdf396b2e722ab2a5c1a328276b5029870437/Screenshot%20from%202024-09-09%2014-56-04.png)](https://github.com/DouglaNyabasa/restaurant_management_system_springboot.git)
 
 <h1> Virtual Reality App<h1/>
 
