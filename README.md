@@ -67,6 +67,14 @@ I am a passionate Full Stack Software Developer, I specialize in creating robust
 
 ![Douglas Nyabasa's GitHub stats](https://github-readme-stats.vercel.app/api?username=douglanyabasa&show_icons=true&theme=gruvbox)
 
+<br/>
+ <h1> Redux Toolikit, Tailwind, Reactjs <h1/> <img src="https://skillicons.dev/icons?i=tailwind,react,redux" />
+
+<h1> Amazon Clone <h1/>
+
+The project is deployed on vercel.com
+
+[![Alt text](https://github.com/DouglaNyabasa/amazon_clone_reactjs_redux/blob/0caba7d5ae2e02cde41a39b9a15f6a3bf8baba95/Screenshot%20from%202025-10-31%2012-32-36.png)](https://amazon-clone-reactjs-redux.vercel.app/)
 
 <br/>
  <h1 >LINKS TO MY PROJECTS 🚀 👨🏻‍💻 <h1/>
