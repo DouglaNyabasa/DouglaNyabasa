@@ -72,7 +72,7 @@ I am a passionate Full Stack Software Developer, I specialize in creating robust
 
 <h1> Amazon Clone <h1/>
 
-The project is deployed on vercel.com
+Click the image below to see deployed version
 
 [![Alt text](https://github.com/DouglaNyabasa/amazon_clone_reactjs_redux/blob/0caba7d5ae2e02cde41a39b9a15f6a3bf8baba95/Screenshot%20from%202025-10-31%2012-32-36.png)](https://amazon-clone-reactjs-redux.vercel.app/)
 
@@ -82,7 +82,7 @@ The project is deployed on vercel.com
 
 <h1> Nike store using Tailwind and Reactjs  👟 Just Do It✓ <h1/>
 
-The project is deployed on vercel.com
+Click the image below to see deployed version
 
 [![Alt text](https://github.com/DouglaNyabasa/DouglaNyabasa/blob/ed05987eaf02ef3bf7687013ea8da4cea9795e02/Screenshot%20from%202024-09-03%2014-00-32.png)](https://nike-store-react-tailwind-b5o3id76a-dougg400s-projects.vercel.app/)
 
@@ -92,7 +92,7 @@ The project is deployed on vercel.com
 
 <h1> Fresh Fruit Website <h1/>
 
-The project is deployed on vercel.com
+Click the image below to see deployed version
 
 [![Alt text](https://github.com/DouglaNyabasa/fresh_fruits_reactjs_framer_motion/blob/0a2531843dd318296ae771a54b9bbb81d267cfa6/Screenshot%202024-11-22%20162114.png)](https://fresh-fruits-reactjs-framer-motion-p9liwz55s-dougg400s-projects.vercel.app/)
 
