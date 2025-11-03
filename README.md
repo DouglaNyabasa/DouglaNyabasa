@@ -63,9 +63,23 @@ I am a passionate Full Stack Software Developer, I specialize in creating robust
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DouglaNyabasa&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="DouglaNyabasa" /></p>
 
-
-
 ![Douglas Nyabasa's GitHub stats](https://github-readme-stats.vercel.app/api?username=douglanyabasa&show_icons=true&theme=gruvbox)
+
+
+
+<br/>
+ <h1 >LINKS TO MY PROJECTS 🚀 👨🏻‍💻 <h1/>
+
+<br/>
+ <h1> Redux Gsap, Tailwind, Reactjs <h1/> <img src="https://skillicons.dev/icons?i=tailwind,react,gsap" />
+
+<h1> Majito Cocktail Website <h1/>
+
+Click the image below to see deployed version
+[![Alt text](https://github.com/DouglaNyabasa/cooktail-website/blob/main/Screenshot%20from%202025-11-03%2010-31-39.png)](https://cooktail-website.vercel.app/)
+
+
+
 
 <br/>
  <h1> Redux Toolikit, Tailwind, Reactjs <h1/> <img src="https://skillicons.dev/icons?i=tailwind,react,redux" />
@@ -75,9 +89,6 @@ I am a passionate Full Stack Software Developer, I specialize in creating robust
 Click the image below to see deployed version
 
 [![Alt text](https://github.com/DouglaNyabasa/amazon_clone_reactjs_redux/blob/0caba7d5ae2e02cde41a39b9a15f6a3bf8baba95/Screenshot%20from%202025-10-31%2012-32-36.png)](https://amazon-clone-reactjs-redux.vercel.app/)
-
-<br/>
- <h1 >LINKS TO MY PROJECTS 🚀 👨🏻‍💻 <h1/>
  <h1>Tailwind and Reactjs  <h1/> <img src="https://skillicons.dev/icons?i=tailwind,react" />
 
 <h1> Nike store using Tailwind and Reactjs  👟 Just Do It✓ <h1/>
