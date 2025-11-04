@@ -83,7 +83,8 @@ Click the image below to see deployed version
  <h1> Tailwind, Reactjs, Spline<h1/> <img src="https://skillicons.dev/icons?i=tailwind,react,spline" />
 
 <h1> Illuvium Gaming Website <h1/>
-
+    
+Click the image below to see deployed version
 [![Alt text](https://github.com/DouglaNyabasa/gaming-website/blob/27aa139ed817859519ac24bee7b044d02c09e0cb/public/Screenshot%20from%202025-11-04%2012-36-05.png)](https://gaming-website-murex.vercel.app/)
 
 
