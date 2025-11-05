@@ -25,7 +25,7 @@ I am a passionate Full Stack Software Developer, I specialize in creating robust
  
  🌱 I’m currently learning **Docker,k8, AWS,OCP Java Exam Preparation**
 
- 📫 How to reach me **douglasnyabasa400@gmai.com**
+ 📫 How to reach me **douglasnyabasa4001@gmal.com**
 
 💬 Ask me about **Java (Spring-Boot, Microservices), Dart(Flutter), JavaScript(ReactJs,Nextjs) Firebase... or anything [here](https://github.com/DouglaNyabasa)**
 
@@ -68,59 +68,77 @@ I am a passionate Full Stack Software Developer, I specialize in creating robust
 
 
 <br/>
- <h1 >LINKS TO MY PROJECTS 🚀 👨🏻‍💻 <h1/>
+ <h1 >CHECK OUT MY PROJECTS 🚀 👨🏻‍💻 <h1/>
 
-<br/>
- <h1> Redux Gsap, Tailwind, Reactjs <h1/> <img src="https://skillicons.dev/icons?i=tailwind,react,gsap" />
-
-<h1> Majito Cocktail Website <h1/>
-
-Click the image below to see deployed version
-[![Alt text](https://github.com/DouglaNyabasa/cooktail-website/blob/main/Screenshot%20from%202025-11-03%2010-31-39.png)](https://cooktail-website.vercel.app/)
+<hr/>
 
 
-<br/>
- <h1> Tailwind, Reactjs, Spline<h1/> <img src="https://skillicons.dev/icons?i=tailwind,react,spline" />
 
-<h1> Illuvium Gaming Website <h1/>
+ <h1> 1) Majito Cocktail Website <h1/>
+ <h2> Redux Gsap, Tailwind, Reactjs <h2/><img src="https://skillicons.dev/icons?i=tailwind,react,gsap" />
+  <h3>  [View Deployed Version](https://cooktail-website.vercel.app/)<h3/>
+ <h3> [View GitHub Repo](https://github.com/DouglaNyabasa/cooktail-website)<h3/>
+
+![Alt text](https://github.com/DouglaNyabasa/cooktail-website/blob/main/Screenshot%20from%202025-11-03%2010-31-39.png)
+
+
+
+<hr/>
+<hr/>
+
+
+  <h1> 2) Illuvium 3D Gaming Website <h1/>
+  <h2> Tailwind, Reactjs, Spline<h2/> <img src="https://skillicons.dev/icons?i=tailwind,react,spline" />
+  <h3>  [View Deployed Version](https://gaming-website-murex.vercel.app)<h3/>
+  <h3> [View GitHub Repo](https://github.com/DouglaNyabasa/gaming-website)<h3/>
     
-Click the image below to see deployed version
-[![Alt text](https://github.com/DouglaNyabasa/gaming-website/blob/27aa139ed817859519ac24bee7b044d02c09e0cb/public/Screenshot%20from%202025-11-04%2012-36-05.png)](https://gaming-website-murex.vercel.app/)
+![Alt text](https://github.com/DouglaNyabasa/gaming-website/blob/27aa139ed817859519ac24bee7b044d02c09e0cb/public/Screenshot%20from%202025-11-04%2012-36-05.png)
 
 
 
 
-<br/>
- <h1> Redux Toolikit, Tailwind, Reactjs <h1/> <img src="https://skillicons.dev/icons?i=tailwind,react,redux" />
-
-<h1> Amazon Clone <h1/>
-
-Click the image below to see deployed version
-
-[![Alt text](https://github.com/DouglaNyabasa/amazon_clone_reactjs_redux/blob/0caba7d5ae2e02cde41a39b9a15f6a3bf8baba95/Screenshot%20from%202025-10-31%2012-32-36.png)](https://amazon-clone-reactjs-redux.vercel.app/)
- <h1>Tailwind and Reactjs  <h1/> <img src="https://skillicons.dev/icons?i=tailwind,react" />
-
-<h1> Nike store using Tailwind and Reactjs  👟 Just Do It✓ <h1/>
-
-Click the image below to see deployed version
-
-[![Alt text](https://github.com/DouglaNyabasa/DouglaNyabasa/blob/ed05987eaf02ef3bf7687013ea8da4cea9795e02/Screenshot%20from%202024-09-03%2014-00-32.png)](https://nike-store-react-tailwind-b5o3id76a-dougg400s-projects.vercel.app/)
-
-
-<br/>
- <h1>Tailwind, Reactjs and Framer Motion <h1/> <img src="https://skillicons.dev/icons?i=tailwind,react" />
-
-<h1> Fresh Fruit Website <h1/>
-
-Click the image below to see deployed version
-
-[![Alt text](https://github.com/DouglaNyabasa/fresh_fruits_reactjs_framer_motion/blob/0a2531843dd318296ae771a54b9bbb81d267cfa6/Screenshot%202024-11-22%20162114.png)](https://fresh-fruits-reactjs-framer-motion-p9liwz55s-dougg400s-projects.vercel.app/)
+<hr/>
+<hr/>
 
 
 
+ <h1> 3) Amazon Clone <h1/>
+ <h2> Redux Toolikit, Tailwind, Reactjs <h2/> <img src="https://skillicons.dev/icons?i=tailwind,react,redux" />
+ <h3>  [View Deployed Version](https://amazon-clone-reactjs-redux.vercel.app)<h3/>
+ <h3> [View GitHub Repo](https://github.com/DouglaNyabasa/amazon_clone_reactjs_redux)<h3/>
+     
+![Alt text](https://github.com/DouglaNyabasa/amazon_clone_reactjs_redux/blob/0caba7d5ae2e02cde41a39b9a15f6a3bf8baba95/Screenshot%20from%202025-10-31%2012-32-36.png)
 
-<h1> Food Ordering Application using Tailwind and Reactjs 🥤🥗🍔🍗🍟🥓 <h1/>
-<h1>Tailwind and Reactjs  <h1/> <img src="https://skillicons.dev/icons?i=tailwind,react" />
+      
+<hr/>
+<hr/>
+
+ <h1> 4) Fresh Fruit Website <h1/>
+  <h2>Tailwind, Reactjs and Framer Motion <h2/> <img src="https://skillicons.dev/icons?i=tailwind,react" />
+ <h3>  [View Deployed Version](https://fresh-fruits-reactjs-framer-motion-p9liwz55s-dougg400s-projects.vercel.app/)<h3/>
+ <h3> [View GitHub Repo](https://github.com/DouglaNyabasa/fresh_fruits_reactjs_framer_motion)<h3/>
+     
+![Alt text](https://github.com/DouglaNyabasa/fresh_fruits_reactjs_framer_motion/blob/0a2531843dd318296ae771a54b9bbb81d267cfa6/Screenshot%202024-11-22%20162114.png)
+
+ <hr/>
+ <hr/>
+
+ 
+ <h1> 5) Nike store using Tailwind and Reactjs  👟 Just Do It✓ <h1/>
+ <h2>Tailwind and Reactjs  <h2/> <img src="https://skillicons.dev/icons?i=tailwind,react" />
+ <h3>  [View Deployed Version](https://nike-store-react-tailwind-b5o3id76a-dougg400s-projects.vercel.app/)<h3/>
+  <h3> [View GitHub Repo](https://github.com/DouglaNyabasa/nike_store_react_tailwind)<h3/>
+
+![Alt text](https://github.com/DouglaNyabasa/DouglaNyabasa/blob/ed05987eaf02ef3bf7687013ea8da4cea9795e02/Screenshot%20from%202024-09-03%2014-00-32.png)
+
+<hr/>
+<hr/>
+
+
+<h1> 6) Food Ordering Application using Tailwind and Reactjs 🥤🥗🍔🍗🍟🥓 <h1/>
+<h2>Tailwind and Reactjs  <h2/> <img src="https://skillicons.dev/icons?i=tailwind,react" />
+  <h3> [View GitHub Repo](https://github.com/DouglaNyabasa/food_ordering_app_reactjs)<h3/>
+
 
 Back-end Is available done with Java Spring Boot
     
@@ -128,53 +146,61 @@ Back-end Is available done with Java Spring Boot
 
 
 <hr/>
-
-<h1> Health & Rehabilitation Booking System <h1/>
-<h1>Tailwind and Reactjs  <h1/> <img src="https://skillicons.dev/icons?i=tailwind,react" />
+<hr/>
 
 
+<h1> 7) Health & Rehabilitation Booking System <h1/>
+<h2>Tailwind and Reactjs  <h2/> <img src="https://skillicons.dev/icons?i=tailwind,react" />
+  <h3> [View GitHub Repo](https://github.com/DouglaNyabasa/rehabilitation_system_reactjs)<h3/>
     
 [![Alt text](https://github.com/DouglaNyabasa/rehabilitation_system_reactjs/blob/b9b112ef71aa5731f28d2aba92a99175ca1063c1/Screenshot%202024-11-22%20163841.png)](https://github.com/DouglaNyabasa/rehabilitation_system_reactjs.git)
 
 
 <hr/>
+<hr/>
 
-<h1> PayPal Spring-Boot Integration with Thymleaf 🇵 <h1/>
+
+<h1> 8) PayPal Spring-Boot Integration with Thymleaf 🇵 <h1/>
  <img src="https://skillicons.dev/icons?i=java,maven,mysql,postman" />
+ <h3> [View GitHub Repo](https://github.com/DouglaNyabasa/Paypal-SpringBoot-Intergration)<h3/>
 
-
-    
 [![Alt text](https://github.com/DouglaNyabasa/DouglaNyabasa/blob/Main/Screenshot%20from%202024-09-04%2014-07-00.png?raw=true)](https://github.com/DouglaNyabasa/Paypal-SpringBoot-Intergration.git)
 
+
 <hr/>
-<h1> Restaurant Management Using Spring boot<h1/> 
+<hr/>
+
+
+<h1> 9) Restaurant Management Using Spring boot<h1/>
 <img src="https://skillicons.dev/icons?i=java,maven,mysql,postman" />
+ <h3> [View GitHub Repo](https://github.com/DouglaNyabasa/restaurant_management_system_springboot)<h3/>
 
-[![Alt text](https://github.com/DouglaNyabasa/DouglaNyabasa/blob/e2bfdf396b2e722ab2a5c1a328276b5029870437/Screenshot%20from%202024-09-09%2014-56-04.png)](https://github.com/DouglaNyabasa/restaurant_management_system_springboot.git)
+![Alt text](https://github.com/DouglaNyabasa/DouglaNyabasa/blob/e2bfdf396b2e722ab2a5c1a328276b5029870437/Screenshot%20from%202024-09-09%2014-56-04.png)
 
 <hr/>
+<hr/>
 
-<h1> This Spring Boot application allows users to send emails with attachments or simple plain text messages. It utilizes MySQL running in a Docker container for data storage.<h1/>
+
+<h1> 10) This Spring Boot application allows users to send emails with attachments or simple plain text messages. It utilizes MySQL running in a Docker container for data storage.<h1/>
  <img src="https://skillicons.dev/icons?i=java,maven,mysql,docker,gmail" />
+<h3> [View GitHub Repo](https://github.com/DouglaNyabasa/email_service_spring_boot_docker)<h3/>
 
+![Alt text](https://github.com/DouglaNyabasa/email_service_spring_boot_docker/blob/e76336221da55e7be3479a58c4353c94b8ac9b2e/screenshots/Screenshot%20from%202025-04-04%2012-14-24.png?raw=true)
 
-    
-[![Alt text](https://github.com/DouglaNyabasa/email_service_spring_boot_docker/blob/e76336221da55e7be3479a58c4353c94b8ac9b2e/screenshots/Screenshot%20from%202025-04-04%2012-14-24.png?raw=true)](https://github.com/DouglaNyabasa/email_service_spring_boot_docker.git)
-
+<hr/>
 <hr/>
 
 
-<h1> Virtual Reality App<h1/>
+
+<h1> 11) Virtual Reality App<h1/>
 
 <h1>Tailwind and Reactjs  <h1/> 
 <img src="https://skillicons.dev/icons?i=tailwind,react" />
+    <h3> [View GitHub Repo](https://github.com/DouglaNyabasa/VirtualReality_reactjs_tailwind)<h3/>
 
-[![Alt text](https://github.com/DouglaNyabasa/DouglaNyabasa/blob/86faf8b9413e95599037d626b78f4094c6ec653b/GIT.PNG)](https://github.com/DouglaNyabasa/VirtualReality_reactjs_tailwind.git)
+
+![Alt text](https://github.com/DouglaNyabasa/DouglaNyabasa/blob/86faf8b9413e95599037d626b78f4094c6ec653b/GIT.PNG)
     
-
 
 <hr/>
 
-
-
-<br/>
