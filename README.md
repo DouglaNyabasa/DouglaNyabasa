@@ -86,10 +86,22 @@ I am a passionate Full Stack Software Developer, I specialize in creating robust
 <hr/>
 <hr/>
 
+ <h1> 2) Spylt Animated Gsap Website <h1/>
+ <h2> Gsap, Tailwind, Reactjs <h2/><img src="https://skillicons.dev/icons?i=tailwind,react,gsap" />
+  <h3>  [View Deployed Version](https://cooktail-website.vercel.app/)<h3/>
+ <h3> [View GitHub Repo](https://github.com/DouglaNyabasa/animated_gsap_website)<h3/>
 
-  <h1> 2) Illuvium 3D Gaming Website <h1/>
+![Alt text](https://github.com/DouglaNyabasa/animated_gsap_website/blob/9f72ba13294d2ca94c1db2b1e9e149048304badc/public/screenshots/Screenshot%20from%202025-11-10%2015-41-21.png)
+
+
+
+<hr/>
+<hr/>
+
+
+  <h1> 3) Illuvium 3D Gaming Website <h1/>
   <h2> Tailwind, Reactjs, Spline<h2/> <img src="https://skillicons.dev/icons?i=tailwind,react,spline" />
-  <h3>  [View Deployed Version](https://gaming-website-murex.vercel.app)<h3/>
+  <h3>  [View Deployed Version](https://animated-gsap-website-seven.vercel.app/)<h3/>
   <h3> [View GitHub Repo](https://github.com/DouglaNyabasa/gaming-website)<h3/>
     
 ![Alt text](https://github.com/DouglaNyabasa/gaming-website/blob/27aa139ed817859519ac24bee7b044d02c09e0cb/public/Screenshot%20from%202025-11-04%2012-36-05.png)
@@ -102,7 +114,7 @@ I am a passionate Full Stack Software Developer, I specialize in creating robust
 
 
 
- <h1> 3) Amazon Clone <h1/>
+ <h1> 4) Amazon Clone <h1/>
  <h2> Redux Toolikit, Tailwind, Reactjs <h2/> <img src="https://skillicons.dev/icons?i=tailwind,react,redux" />
  <h3>  [View Deployed Version](https://amazon-clone-reactjs-redux.vercel.app)<h3/>
  <h3> [View GitHub Repo](https://github.com/DouglaNyabasa/amazon_clone_reactjs_redux)<h3/>
@@ -113,7 +125,7 @@ I am a passionate Full Stack Software Developer, I specialize in creating robust
 <hr/>
 <hr/>
 
- <h1> 4) Fresh Fruit Website <h1/>
+ <h1> 5) Fresh Fruit Website <h1/>
   <h2>Tailwind, Reactjs and Framer Motion <h2/> <img src="https://skillicons.dev/icons?i=tailwind,react" />
  <h3>  [View Deployed Version](https://fresh-fruits-reactjs-framer-motion-p9liwz55s-dougg400s-projects.vercel.app/)<h3/>
  <h3> [View GitHub Repo](https://github.com/DouglaNyabasa/fresh_fruits_reactjs_framer_motion)<h3/>
@@ -124,7 +136,7 @@ I am a passionate Full Stack Software Developer, I specialize in creating robust
  <hr/>
 
  
- <h1> 5) Nike store using Tailwind and Reactjs  👟 Just Do It✓ <h1/>
+ <h1> 6) Nike store using Tailwind and Reactjs  👟 Just Do It✓ <h1/>
  <h2>Tailwind and Reactjs  <h2/> <img src="https://skillicons.dev/icons?i=tailwind,react" />
  <h3>  [View Deployed Version](https://nike-store-react-tailwind-b5o3id76a-dougg400s-projects.vercel.app/)<h3/>
   <h3> [View GitHub Repo](https://github.com/DouglaNyabasa/nike_store_react_tailwind)<h3/>
@@ -135,7 +147,7 @@ I am a passionate Full Stack Software Developer, I specialize in creating robust
 <hr/>
 
 
-<h1> 6) Food Ordering Application using Tailwind and Reactjs 🥤🥗🍔🍗🍟🥓 <h1/>
+<h1> 7) Food Ordering Application using Tailwind and Reactjs 🥤🥗🍔🍗🍟🥓 <h1/>
 <h2>Tailwind and Reactjs  <h2/> <img src="https://skillicons.dev/icons?i=tailwind,react" />
   <h3> [View GitHub Repo](https://github.com/DouglaNyabasa/food_ordering_app_reactjs)<h3/>
 
@@ -149,7 +161,7 @@ Back-end Is available done with Java Spring Boot
 <hr/>
 
 
-<h1> 7) Health & Rehabilitation Booking System <h1/>
+<h1> 8) Health & Rehabilitation Booking System <h1/>
 <h2>Tailwind and Reactjs  <h2/> <img src="https://skillicons.dev/icons?i=tailwind,react" />
   <h3> [View GitHub Repo](https://github.com/DouglaNyabasa/rehabilitation_system_reactjs)<h3/>
     
@@ -160,22 +172,12 @@ Back-end Is available done with Java Spring Boot
 <hr/>
 
 
-<h1> 8) PayPal Spring-Boot Integration with Thymleaf 🇵 <h1/>
+<h1> 9) PayPal Spring-Boot Integration with Thymleaf 🇵 <h1/>
  <img src="https://skillicons.dev/icons?i=java,maven,mysql,postman" />
  <h3> [View GitHub Repo](https://github.com/DouglaNyabasa/Paypal-SpringBoot-Intergration)<h3/>
 
 [![Alt text](https://github.com/DouglaNyabasa/DouglaNyabasa/blob/Main/Screenshot%20from%202024-09-04%2014-07-00.png?raw=true)](https://github.com/DouglaNyabasa/Paypal-SpringBoot-Intergration.git)
 
-
-<hr/>
-<hr/>
-
-
-<h1> 9) Restaurant Management Using Spring boot<h1/>
-<img src="https://skillicons.dev/icons?i=java,maven,mysql,postman" />
- <h3> [View GitHub Repo](https://github.com/DouglaNyabasa/restaurant_management_system_springboot)<h3/>
-
-![Alt text](https://github.com/DouglaNyabasa/DouglaNyabasa/blob/e2bfdf396b2e722ab2a5c1a328276b5029870437/Screenshot%20from%202024-09-09%2014-56-04.png)
 
 <hr/>
 <hr/>
@@ -191,8 +193,18 @@ Back-end Is available done with Java Spring Boot
 <hr/>
 
 
+<h1> 11) Restaurant Management Using Spring boot<h1/>
+<img src="https://skillicons.dev/icons?i=java,maven,mysql,postman" />
+ <h3> [View GitHub Repo](https://github.com/DouglaNyabasa/restaurant_management_system_springboot)<h3/>
 
-<h1> 11) Virtual Reality App<h1/>
+![Alt text](https://github.com/DouglaNyabasa/DouglaNyabasa/blob/e2bfdf396b2e722ab2a5c1a328276b5029870437/Screenshot%20from%202024-09-09%2014-56-04.png)
+
+<hr/>
+<hr/>
+
+
+
+<h1> 12) Virtual Reality App<h1/>
 
 <h1>Tailwind and Reactjs  <h1/> 
 <img src="https://skillicons.dev/icons?i=tailwind,react" />
