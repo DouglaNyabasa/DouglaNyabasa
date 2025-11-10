@@ -88,7 +88,7 @@ I am a passionate Full Stack Software Developer, I specialize in creating robust
 
  <h1> 2) Spylt Animated Gsap Website <h1/>
  <h2> Gsap, Tailwind, Reactjs <h2/><img src="https://skillicons.dev/icons?i=tailwind,react,gsap" />
-  <h3>  [View Deployed Version](https://cooktail-website.vercel.app/)<h3/>
+  <h3>  [View Deployed Version](https://animated-gsap-website-seven.vercel.app/)<h3/>
  <h3> [View GitHub Repo](https://github.com/DouglaNyabasa/animated_gsap_website)<h3/>
 
 ![Alt text](https://github.com/DouglaNyabasa/animated_gsap_website/blob/9f72ba13294d2ca94c1db2b1e9e149048304badc/public/screenshots/Screenshot%20from%202025-11-10%2015-41-21.png)
@@ -101,7 +101,7 @@ I am a passionate Full Stack Software Developer, I specialize in creating robust
 
   <h1> 3) Illuvium 3D Gaming Website <h1/>
   <h2> Tailwind, Reactjs, Spline<h2/> <img src="https://skillicons.dev/icons?i=tailwind,react,spline" />
-  <h3>  [View Deployed Version](https://animated-gsap-website-seven.vercel.app/)<h3/>
+  <h3>  [View Deployed Version](https://gaming-website-murex.vercel.app/)<h3/>
   <h3> [View GitHub Repo](https://github.com/DouglaNyabasa/gaming-website)<h3/>
     
 ![Alt text](https://github.com/DouglaNyabasa/gaming-website/blob/27aa139ed817859519ac24bee7b044d02c09e0cb/public/Screenshot%20from%202025-11-04%2012-36-05.png)
