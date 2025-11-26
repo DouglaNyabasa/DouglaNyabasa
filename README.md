@@ -74,9 +74,10 @@ I am a passionate Full Stack Software Developer, I specialize in creating robust
 
  <h1> 13) Weather Report Mobile App <h1/>
  <h2> Fluuter, Weather API,Riverpod and Dio <h2/><img src="https://skillicons.dev/icons?i=flutter" />
- 
+  <h3> [View GitHub Repo](https://github.com/DouglaNyabasa/flutter_weather_app)<h3/>
 
-![Alt text](https://github.com/DouglaNyabasa/pizza-ordering-app/blob/e7acce7a5d5c1c17426126dd9b64f63102e1936e/screenshots/Untitled.png)
+
+![Alt text](https://github.com/DouglaNyabasa/flutter_weather_app/blob/8a2843b9337221bd0fe589d51687144dff22d289/screenshots/Untitled.png)
 
 <hr/>
 <hr/>
