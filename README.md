@@ -61,9 +61,10 @@ I am a passionate Full Stack Software Developer, I specialize in creating robust
 
 ### 📊 Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DouglaNyabasa&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="DouglaNyabasa" /></p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=DouglaNyabasa&show_icons=true&locale=en&layout=compact&theme=gruvbox)
 
-![Douglas Nyabasa's GitHub stats](https://github-readme-stats.vercel.app/api?username=douglanyabasa&show_icons=true&theme=gruvbox)
+![Douglas Nyabasa's GitHub stats](https://github-readme-stats.vercel.app/api?username=DouglaNyabasa&show_icons=true&theme=gruvbox)
+
 
 
 
@@ -73,7 +74,7 @@ I am a passionate Full Stack Software Developer, I specialize in creating robust
 <hr/>
 
  <h1> 13) Weather Report Mobile App <h1/>
- <h2> Fluuter, Weather API,Riverpod and Dio <h2/><img src="https://skillicons.dev/icons?i=flutter" />
+ <h2> Flutter, Weather API,Riverpod and Dio <h2/><img src="https://skillicons.dev/icons?i=flutter" />
   <h3> [View GitHub Repo](https://github.com/DouglaNyabasa/flutter_weather_app)<h3/>
 
 
