@@ -71,6 +71,18 @@ I am a passionate Full Stack Software Developer, I specialize in creating robust
 <br/>
  <h1 >CHECK OUT MY PROJECTS 🚀 👨🏻‍💻 <h1/>
 
+ <hr/>
+
+ <h1> 14) Paynow Spring Boot Integration <h1/>
+ <h2> Paynow API,Spring boot <h2/>
+  <h3> [View GitHub Repo](https://github.com/DouglaNyabasa/paynow-spring-integration.git)<h3/>
+
+
+![Alt text](https://github.com/DouglaNyabasa/paynow-spring-integration/blob/d4c4840c558d3987f0639beef566b4e835494d79/screenshot/Screenshot%20from%202026-04-15%2020-21-41.png)
+
+<hr/>
+<hr/>
+
 <hr/>
 
  <h1> 13) Weather Report Mobile App <h1/>
