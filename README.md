@@ -71,6 +71,20 @@ I am a passionate Full Stack Software Developer, I specialize in creating robust
 <br/>
  <h1 >CHECK OUT MY PROJECTS 🚀 👨🏻‍💻 <h1/>
 
+  <hr/>
+
+ <h1> 15) HomeQuestConnect <h1/>
+ <h2> Available on Android and IOS <h2/>
+  <h3> [Download on Google Playstore: Link](https://play.google.com/store/apps/details?id=zw.co.homequest.app&pcampaignid=web_share)<h3/>
+  <h3> [View on web: Link](https://homequest.co.zw/)<h3/>
+
+
+
+![Alt text](https://github.com/DouglaNyabasa/homeQuest_mobile/blob/ad82e52eb443bd4c63b7821801a981bdb2f6b1b7/screenshots/banner.png)
+
+<hr/>
+<hr/>
+
  <hr/>
 
  <h1> 14) Paynow Spring Boot Integration <h1/>
