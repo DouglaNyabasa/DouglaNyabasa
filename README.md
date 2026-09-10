@@ -74,10 +74,10 @@ I am a passionate Full Stack Software Developer, I specialize in creating robust
   <hr/>
 
  <h1> 15) HomeQuestConnect <h1/>
- <h2> Available on Android and IOS <h2/>
+ <h2> Available on Android, IOS && Web<h2/>
  <h3> [Download on Playstore: Link](https://play.google.com/store/apps/details?id=zw.co.homequest.app&pcampaignid=web_share)<h3/>
      <hr/>
-  <h3> [web: Link version](https://homequest.co.zw/)<h3/>
+  <h3> [Web Version](https://homequest.co.zw/)<h3/>
 
 
 
