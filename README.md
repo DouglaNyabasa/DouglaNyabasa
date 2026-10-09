@@ -46,7 +46,6 @@ I am a passionate Full Stack Software Developer, I specialize in creating robust
   </a>
 </div>
 
- <hr/>
  
 <h2 align="center">⚒️ My Tech Stack ⚒️</h2>
 <br/>
