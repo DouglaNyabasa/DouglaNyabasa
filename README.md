@@ -78,7 +78,6 @@ I am a passionate Full Stack Software Developer, I specialize in creating robust
  <h3> [Download on Playstore For Android : Link](https://play.google.com/store/apps/details?id=zw.co.homequest.app&pcampaignid=web_share)<h3/>
       <h3> [Download on App Store For Iphone : Link](  https://apps.apple.com/zw/app/homequestconnect/id6810974472)<h3/>
 
-     <hr/>
   <h3> [Web Version](https://homequest.co.zw/)<h3/>
 
 
