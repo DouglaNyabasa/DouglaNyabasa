@@ -82,7 +82,7 @@ I am a passionate Full Stack Software Developer, I specialize in creating robust
 
 
 
-![Alt text](https://github.com/DouglaNyabasa/homeQuest_mobile/blob/e954fcd5e4fcce71dfaf79bfdeffbad1120b2ee6/screenshots/banner.png)
+![Alt text](https://github.com/DouglaNyabasa/homeQuest/blob/356b24f63f029485b341ee11c282cda1f9547c77/screenshots/banner.png)
 
 <hr/>
 <hr/>
